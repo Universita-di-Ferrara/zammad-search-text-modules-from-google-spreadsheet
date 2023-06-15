@@ -1,4 +1,4 @@
-# zammad-search-text-modules-google-form
+# Zammad search text modules from Google Spreadsheet
 
 A small script to work around the lack of a search tool in Zammad. 
 
